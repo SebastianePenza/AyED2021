@@ -1,6 +1,6 @@
-#Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos
 
-##Curso K1051
+## Curso K1051
 
 Año 2021
 
