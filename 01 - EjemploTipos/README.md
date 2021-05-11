@@ -10,5 +10,5 @@ de Tipos de Datos**
     char, unsigned, int, double, y string.
 
 ## Hipotesis de trabajo:
-    * Busque trabajar con ejemplos "adaptados" mas a la realidad, si bien falta el contexto dentro del codigo fuente, sería un ejemplo un poco mas concreto
-    de su uso cotidiano.
+    * Busqué que todo tipo de datos tenga todas sus operaciones correspondientes.
+    

@@ -5,18 +5,35 @@ using namespace std;
 
 int main()
 {
-    bool switchOn = true;
-    char carac = 'a';
-    unsigned int notaMax = 10;
-    unsigned int prom = 18;
-    double planck = 6.62607015e-34;
-    string txt = "Algoritmos y Estructuras de datos";
+        //Booleanos
+    assert(true == true);
+    assert(true != false);
+    assert(true || false == true);
+    assert(true && false == false);
+    
+        //unsigned int
+    assert(1u == 1u);
+    assert(4u / 2u == 2u);
+    assert(1u * 1u == 1u);
+    assert(1u + 1u == 2u);
+    assert(2u - 1u == 1u);
 
-    assert(switchOn==true);
-    assert(carac!='h');
-    assert(prom/3 <= notaMax);
-    assert(planck>=0);
-    assert(txt.size()==34);
+        //char
+    assert('h'=='h');
+    assert('!' != '@');
 
+        //double
+    assert(1.5 - 0.5 == 1.0);
+    assert(1.5 + 0.5 == 2.0);
+    assert(0e-1 == 0e-1);
+    assert(0e-1 != 1.0);
+    assert(6.0 > 0e-1);
+    assert(0e-1 < 6.0);
+
+        //strings
+    assert(string("hello") == "hello");
+    assert(string("hello") != "hola");
+    assert(string("hello") + string(" world!") == "hello world!");
+    assert(string("AyED").length() >= 4);
 return 0;
 }
