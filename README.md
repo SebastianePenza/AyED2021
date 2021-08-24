@@ -1,7 +1,16 @@
 # Algoritmos y Estructuras de Datos
 
-## Curso K1051
+Curso K1051 - Año 2021
 
-Año 2021
-
-_**Sebastian Penza** - Legajo 1733084_
+**_Sebastian Penza_**
+- Legajo 1733084
+___
+```C++
+while(alive){
+    eat();
+    sleep();
+    solve();
+    haveFun();
+    repeat();
+}
+```
