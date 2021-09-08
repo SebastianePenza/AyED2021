@@ -9,7 +9,7 @@
 ### Transcripcion del problema: 
 - Este es un trabajo no estructurado, que consiste en escribir un programa que ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase: bool, char, unsigned, int, double, y string.
 
-IPO Chart
+![IPO Chart datatypes](https://user-images.githubusercontent.com/82189784/132585277-86050b85-e1cb-4194-a134-f437ef9d36c1.png)
 
 *Proceso:*
 >Se procede a explicitarse en el source code la sintaxis de uso para cada tipo de dato.
