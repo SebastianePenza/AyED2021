@@ -1,8 +1,6 @@
 #include <cassert>
 #include <string>
 
-using namespace std;
-
 int main()
 {
         //Booleanos
@@ -10,7 +8,7 @@ int main()
     assert(true != false);
     assert(true || false == true);
     assert(true && false == false);
-    
+
         //unsigned int
     assert(1u == 1u);
     assert(4u / 2u == 2u);
@@ -35,5 +33,6 @@ int main()
     assert(string("hello") != "hola");
     assert(string("hello") + string(" world!") == "hello world!");
     assert(string("AyED").length() >= 4);
+
 return 0;
 }

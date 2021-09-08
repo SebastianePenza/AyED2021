@@ -1,6 +1,6 @@
 #include <fstream>
 
-using namespace std;
+using std::ofstream;
 
 int main() 
 {
@@ -8,7 +8,7 @@ int main()
 
     file.open("output.txt");
     file << "Hola Mundo!";
-
     file.close();
-    return 0;
+
+return 0;
 }
