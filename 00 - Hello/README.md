@@ -9,7 +9,7 @@
 ### Transcripcion del problema:
 - Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
 
-IPO Chart
+![IPO Chart hola mundo](https://user-images.githubusercontent.com/82189784/132585196-d92cca97-89f4-4b2c-ae0a-8a976dc8d148.png)
 
 *Proceso:*
 >Gestion de archivo via operadores *open* y *close* del header *'fstream'*.
