@@ -4,7 +4,7 @@
 - Demostrar, mediante un problema simple, el conocimiento de las etapas de
 resolución de problemas.
 
-Ipo Chart
+![IPO Chart Adicion](https://user-images.githubusercontent.com/82189784/132585347-3e76202f-eb8d-4ef1-a2f7-e4bc5cdada33.png)
 
 *Entradas:*
 >Variable 'a' de tipo int.
