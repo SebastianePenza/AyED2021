@@ -30,3 +30,4 @@
 ## Etapa #2: Diseño de la solución
 
 ### <u>Léxico del algoritmo</u>
+![image](https://user-images.githubusercontent.com/82189784/138958942-0c0ae76c-fae0-4167-a977-0fe98e300059.png)
