@@ -45,8 +45,8 @@ void getType(){
     cin >> opt;
 }
 
-void build(int a, Triangulo){
-    if(a == 0 || 2){
+void build(){       //Armado por puntos.
+    if(opt == 0 || 2){  
         cout<< "Indique valor del lado 1: ";
         cin >> ABC.l1;
         cout<< "Indique valor del lado base: ";
